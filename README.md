@@ -15,7 +15,9 @@
 ## About Me
 
 I am a Full Stack Developer who enjoys building end-to-end applications that bridge the gap between backend systems, frontend interfaces, and mobile experiences. My primary focus is within the JavaScript ecosystem, where I develop backend APIs, build dynamic web applications, and create cross-platform mobile apps.
+
 I have a strong interest in writing clean, maintainable code and designing systems that are scalable and efficient. I enjoy exploring new frameworks, tools, and development practices that help improve both performance and developer productivity.
+
 For me, software development is not just about writing code — it's about solving problems, creating meaningful user experiences, and continuously learning to build better technology.
 
 <br/>
