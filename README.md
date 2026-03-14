@@ -1,7 +1,6 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=180&section=header&text=Durga%20Sai%20Prasad%20Ganapathi&fontSize=32&fontColor=e0e0e0&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer&descSize=16&descAlignY=55&descColor=58a6ff" width="100%" />
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+Scalable+APIs+with+Node.js;Crafting+UIs+with+React;Shipping+Mobile+Apps+with+Expo;Passionate+about+Clean+Code" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/durga-sai-prasad-ganapathi-976218219/)
 &nbsp;
