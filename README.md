@@ -90,3 +90,8 @@ AI Experiments        →  Exploring LLM integrations & developer tools
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=100&section=footer" width="100%" />
 
 </div>
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/DURGASAI548/DURGASAI548/blob/output/github-snake.svg" />
+</p>
