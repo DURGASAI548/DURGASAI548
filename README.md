@@ -58,19 +58,6 @@ AI Experiments        →  Exploring LLM integrations & developer tools
 
 <br/>
 
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=durgasaiprasad&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true" height="170" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=durgasaiprasad&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" height="170" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=durgasaiprasad&hide_border=true&background=0D1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555" width="520" />
-
-</div>
 
 <br/>
 
@@ -78,7 +65,6 @@ AI Experiments        →  Exploring LLM integrations & developer tools
 
 - AI-powered developer tools & LLM integrations
 - Serverless architecture patterns
-- GraphQL APIs
 
 <br/>
 
