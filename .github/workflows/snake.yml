@@ -6,10 +6,10 @@ on:
   workflow_dispatch:
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate github contribution snake
+      - name: Generate Snake
         uses: Platane/snk@v3
         with:
           github_user_name: DURGASAI548
