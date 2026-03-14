@@ -4,8 +4,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+Scalable+APIs+with+Node.js;Crafting+UIs+with+React;Shipping+Mobile+Apps+with+Expo;Passionate+about+Clean+Code" alt="Typing SVG" />
 
-
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/durga-sai-prasad-ganapathi-976218219/)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DURGASAI548)
