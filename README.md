@@ -5,8 +5,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/durga-sai-prasad-ganapathi-976218219/)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DURGASAI548)
-&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ganapathi548@gmail.com)
 </div>
 <br/>
 ## About Me
@@ -37,12 +35,12 @@ I'm a Full Stack Developer who enjoys building real-world applications across we
 </div>
 <br/>
 ## What I Build
-```
+
 Full Stack Apps       →  React + Node.js + MongoDB end-to-end applications
 Backend APIs          →  RESTful services with Express.js, auth & file uploads
 Mobile Apps           →  Cross-platform apps with React Native & Expo
 AI Experiments        →  Exploring LLM integrations & developer tools
-```
+
 <br/>
 ## Currently Exploring
 - AI-powered developer tools & LLM integrations
