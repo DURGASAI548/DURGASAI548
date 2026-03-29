@@ -11,7 +11,6 @@
 </div>
 
 <br/>
-
 ## About Me
 
 I am a Full Stack Developer who enjoys building end-to-end applications that bridge the gap between backend systems, frontend interfaces, and mobile experiences. My primary focus is within the JavaScript ecosystem, where I develop backend APIs, build dynamic web applications, and create cross-platform mobile apps.
